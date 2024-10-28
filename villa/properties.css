@@ -1,0 +1,501 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.row1{
+    width:100%;
+    display: flex;
+   
+}
+.col1{
+    width: 70%;
+}
+
+.col2{
+    width: 30%;
+}
+.col1 li{
+    display: inline;
+}
+.col1 ul{
+ margin-top: 20px;
+ padding-left:120px;
+}
+.hey{
+    color: orange;
+    padding-left: 10px;
+}
+
+.col2 li{
+    display: inline;
+  padding: 10px;
+}
+.col2 ul{
+text-align:center;
+ margin-top: 20px;
+}
+.row2{
+    width:100% ;
+    display: flex;
+    padding-top: 40px;
+
+}
+.col3{
+    width: 30%;
+    text-align: center;
+}
+
+.col4{
+    width: 70%;
+ padding-left: 20px;
+}
+.col4 li{
+    display: inline;
+    padding: 30px;
+}
+.col4 ul {
+    padding-top: 10px;
+    padding-left:100px;
+}
+.row001{
+    background-image: url(page-heading-bg.jpg);
+    width: 100%;
+    height: 50vh;
+}
+.col0011{
+    text-align: center;
+    padding-top: 50px;
+color:aliceblue;
+text-transform: uppercase;
+}
+.row-21{
+    width: 100%;
+    display: flex;
+    margin-top: 120px;
+}
+.col-01{
+    width:25%;
+    margin-left: 200px;
+}
+
+.col-02{
+    width:25%;
+}
+
+.col-03{
+    width:25%;
+}
+
+.col-04{
+    width:25%;
+}
+.col-01 button{
+  width: 130px;
+  height: 50px;
+  border-radius: 10px;
+ 
+}
+
+.col-02 button{
+    width: 130px;
+    height: 50px;
+    border-radius: 10px;
+ 
+  }
+  
+.col-03 button{
+    width: 130px;
+    height: 50px;
+    border-radius: 10px;
+    
+  }
+  
+.col-04 button{
+    width: 130px;
+    height: 50px;
+    border-radius: 10px;
+   
+  }
+  
+.row14{
+    width:100%;
+    display: flex;
+    margin-top: 100px;
+}
+.col70{
+    width: 30%;
+    margin-left: 100px;
+    
+}
+
+.col71{
+    width:30%;
+}
+
+.col72{
+    width:30%;
+}
+.col70 img{
+    border-radius: 20px;
+}
+
+.col71 img{
+    border-radius: 20px;
+}
+
+.col72 img{
+    border-radius: 20px;
+}
+.col00 button{
+    border: 0;
+    margin-top: 20px;
+    border-radius: 3px;
+    width: 100px;
+ background-color: #fbd9cf;
+}
+.row15{
+    width: 100%;
+    display: flex;
+}
+.col00{
+    width: 50%;
+}
+
+.col01{
+    width: 50%;
+    margin-top: 20px
+}
+.row16{
+    width:100%;
+    display: flex;
+}
+.col000{
+    width: 50%;
+}
+.col001{
+    width: 50%;
+    margin-top: 20px
+}
+
+.col000 button{
+    border: 0;
+    margin-top: 20px;
+    border-radius: 3px;
+    width: 100px;
+ background-color: #fbd9cf;
+}
+
+.row17{
+    width:100%;
+    display: flex;
+}
+.col0000{
+    width: 50%;
+}
+.col0001{
+    width: 50%;
+    margin-top: 20px
+}
+
+.col0000 button{
+    border: 0;
+    margin-top: 20px;
+    border-radius: 3px;
+    width: 100px;
+ background-color: #fbd9cf;
+}
+.row100{
+    width: 100%;
+    display: flex;
+}
+.col100{
+    width: 30%;
+}
+.col101{
+    width: 70%;
+}
+.col100 span{
+     font-weight: bold;
+}
+.col101 span{
+    font-weight: bold;
+}
+
+.row200{
+    width: 100%;
+    display: flex;
+}
+.col200{
+    width: 30%;
+}
+.col201{
+    width: 70%;
+}
+
+.col200 span{
+    font-weight: bold;
+}
+.col201 span{
+   font-weight: bold;
+}
+
+.row300{
+    width: 100%;
+    display: flex;
+}
+.col300{
+    width: 30%;
+}
+.col301{
+    width: 70%;
+}
+
+.col300 span{
+    font-weight: bold;
+}
+.col301 span{
+   font-weight: bold;
+}
+.col80 a button{
+   border: 0;
+   border-radius: 20px;
+   background-color: black;
+   color: azure;
+   width: 200px;
+   height: 40px;
+}
+
+.row400{
+    width: 100%;
+    display: flex;
+}
+.col80{
+    width: 33.33%;
+    margin-left: 110px;
+    margin-top: 50px;
+}
+.col81{
+    width:33.33%;
+    margin-top: 50px;
+}
+
+.col82{
+    width:33.33%;
+    margin-top: 50px;
+}
+
+.col81 a button{
+    border: 0;
+    border-radius: 20px;
+    background-color: black;
+    color: azure;
+    width: 200px;
+    height: 40px;
+}
+
+.col82 a button{
+    border: 0;
+    border-radius: 20px;
+    background-color: black;
+    color: azure;
+    width: 200px;
+    height: 40px;
+}
+
+
+ 
+.row000{
+    width:100%;
+    display: flex;
+    margin-top: 100px;
+}
+.col91{
+    width: 30%;
+    margin-left: 100px;
+    
+}
+
+.col92{
+    width:30%;
+}
+
+.col93{
+    width:30%;
+}
+.col91 img{
+    border-radius: 20px;
+}
+
+.col92 img{
+    border-radius: 20px;
+}
+
+.col93 img{
+    border-radius: 20px;
+}
+.col110 button{
+    border: 0;
+    margin-top: 20px;
+    border-radius: 3px;
+    width: 100px;
+ background-color: #fbd9cf;
+}
+.row25{
+    width: 100%;
+    display: flex;
+}
+.col110{
+    width: 50%;
+}
+
+.col111{
+    width: 50%;
+    margin-top: 20px
+}
+.row16{
+    width:100%;
+    display: flex;
+}
+.col000{
+    width: 50%;
+}
+.col001{
+    width: 50%;
+    margin-top: 20px
+}
+
+.col000 button{
+    border: 0;
+    margin-top: 20px;
+    border-radius: 3px;
+    width: 100px;
+ background-color: #fbd9cf;
+}
+
+.row17{
+    width:100%;
+    display: flex;
+}
+.col0000{
+    width: 50%;
+}
+.col0001{
+    width: 50%;
+    margin-top: 20px
+}
+
+.col0000 button{
+    border: 0;
+    margin-top: 20px;
+    border-radius: 3px;
+    width: 100px;
+ background-color: #fbd9cf;
+}
+.row100{
+    width: 100%;
+    display: flex;
+}
+.col100{
+    width: 30%;
+}
+.col101{
+    width: 70%;
+}
+.col100 span{
+     font-weight: bold;
+}
+.col101 span{
+    font-weight: bold;
+}
+
+.row200{
+    width: 100%;
+    display: flex;
+}
+.col200{
+    width: 30%;
+}
+.col201{
+    width: 70%;
+}
+
+.col200 span{
+    font-weight: bold;
+}
+.col201 span{
+   font-weight: bold;
+}
+
+.row300{
+    width: 100%;
+    display: flex;
+}
+.col300{
+    width: 30%;
+}
+.col301{
+    width: 70%;
+}
+
+.col300 span{
+    font-weight: bold;
+}
+.col301 span{
+   font-weight: bold;
+}
+.col80 a button{
+   border: 0;
+   border-radius: 20px;
+   background-color: black;
+   color: azure;
+   width: 200px;
+   height: 40px;
+}
+
+.col80 a button{
+    border: 0;
+    border-radius: 20px;
+    background-color: black;
+    color: azure;
+    width: 200px;
+    height: 40px;
+ }
+ 
+ .row400{
+     width: 100%;
+     display: flex;
+ }
+ .col80{
+     width: 33.33%;
+     margin-left: 110px;
+     margin-top: 50px;
+ }
+ .col81{
+     width:33.33%;
+     margin-top: 50px;
+ }
+ 
+ .col82{
+     width:33.33%;
+     margin-top: 50px;
+ }
+ 
+ .col81 a button{
+     border: 0;
+     border-radius: 20px;
+     background-color: black;
+     color: azure;
+     width: 200px;
+     height: 40px;
+ }
+ 
+ .col82 a button{
+     border: 0;
+     border-radius: 20px;
+     background-color: black;
+     color: azure;
+     width: 200px;
+     height: 40px;
+ }
+ 
